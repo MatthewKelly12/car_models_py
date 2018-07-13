@@ -1,0 +1,16 @@
+T=Camry
+T=Corolla
+T=Tacoma
+H=Accord
+H=CRV
+P=GrandAm
+P=Sunbird
+F=F150
+F=Taurus
+L=IS
+L=GS
+N=Altima
+N=Maxima
+D=Avenger
+D=Ram
+D=Dakota
